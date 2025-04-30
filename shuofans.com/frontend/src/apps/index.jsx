@@ -5,7 +5,7 @@ import {
   Layout, Menu, Row, Col 
 } from 'antd';
 import styled from 'styled-components';
-import ImageLogo from '../images/logo.png';
+import ImageLogo from '../images/logo_64.png';
 
 const LogoBox = styled.div`
   padding: 0 24px;
